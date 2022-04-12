@@ -110,6 +110,9 @@ int main(void)
     /* USER CODE END WHILE */
     MX_USB_HOST_Process();
 
+    HAL_GPIO_WritePin(GPIOD,GPIO_PIN_12,1);
+    HAL_GPIO_WritePin(GPIOD,GPIO_PIN_13,1);
+    HAL_GPIO_WritePin(GPIOD,GPIO_PIN_14,1);
     HAL_GPIO_WritePin(GPIOD,GPIO_PIN_15,1);
 	/* USER CODE BEGIN 3 */
   }
