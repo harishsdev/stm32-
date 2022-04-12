@@ -110,11 +110,11 @@ int main(void)
     /* USER CODE END WHILE */
     MX_USB_HOST_Process();
 
-    HAL_Delay(50);
+    HAL_Delay(500);
     HAL_GPIO_WritePin(GPIOD,GPIO_PIN_12,1);
-    HAL_Delay(50);
+    HAL_Delay(500);
     HAL_GPIO_WritePin(GPIOD,GPIO_PIN_12,0);
-    HAL_Delay(50);
+    HAL_Delay(500);
     HAL_GPIO_WritePin(GPIOD,GPIO_PIN_13,1);
     HAL_Delay(50);
     HAL_GPIO_WritePin(GPIOD,GPIO_PIN_13,0);
