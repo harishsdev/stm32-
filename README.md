@@ -13,7 +13,7 @@ Sample:-
 
 
    GPIO_PinState myPushButton;
-  /* Infinite loop */
+  /* Infinite loop u*/
   /* USER CODE BEGIN WHILE */
   while (1)
   {
