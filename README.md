@@ -1,7 +1,6 @@
 # stm32-
 
-1.LED12 ON and Off with Delay 
-
+LEDS:-
 
 1.LED12  glow with  HAL_GPIO_WritePin
 
