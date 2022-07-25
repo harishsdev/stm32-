@@ -9,7 +9,7 @@
 
 
 
-Samle:-
+Sample:-
 
 
    GPIO_PinState myPushButton;
