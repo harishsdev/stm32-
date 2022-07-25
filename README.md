@@ -1,9 +1,19 @@
 # stm32-
 
-1.LED12 ON and Off with Delay
+1.LED12 ON and Off with Delay 
 
 
+1.LED12  glow with  HAL_GPIO_WritePin
 
+2.LED13  glow with  HAL_GPIO_WritePin
+
+3.LED14  glow with  HAL_GPIO_WritePin
+
+4.LED14  glow with  HAL_GPIO_WritePin
+
+5. GLow all at a time with  HAL_GPIO_WritePin
+
+6. toggle all with delay using  HAL_GPIO_WritePin
 
 
 
